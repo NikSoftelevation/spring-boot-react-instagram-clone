@@ -12,7 +12,7 @@ const Router = (props) => {
         </div>
         <div>
           <Routes>
-            <Route path="/" element={<HomePage />}></Route>
+            <Route path="/" element={<Sidebar />}></Route>
           </Routes>
         </div>
       </div>
